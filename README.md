@@ -1,6 +1,6 @@
 # Tech Gear web Bootstrap 5.3
 
-<img src="screen/desktop-preview.jpg" alt="Desktop preview" style="max-width: 100%; height: auto;">
+<img src="screen/desktop.jpg" alt="Desktop preview" style="max-width: 100%; height: auto;">
 
 Pagina web realizada con Boostrap 5.3 totalmente respnsive🔥.
 
